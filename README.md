@@ -1,5 +1,5 @@
 # clang-format
 ## Usage
 `bash ./fmt.sh ./`  
-to format the files in the current directory.
+to format the C++ source files in this directory and its subdirectories recursively.
 
